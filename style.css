@@ -40,3 +40,6 @@ img{
     width: 50%;
     height: 50%;
 }
+.right, .left{
+    display: inline-block;
+}
